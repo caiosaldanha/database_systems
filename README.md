@@ -2,6 +2,8 @@
 
 Citations to study about Database Systems.
 
+Studying the MIT Class: https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/
+
 # Data Models and DBMS Architecture
 
 Data model proposals have been around since the late 1960’s.
